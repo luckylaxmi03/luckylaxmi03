@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luckylaxmi03
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning python and java.
-- 💞️ I’m looking to collaborate on python.
+- 💞️ I’m looking to collaborate on Java.
 - 📫 How to reach me 122laxmi122@gmail.com
 
 <!---
