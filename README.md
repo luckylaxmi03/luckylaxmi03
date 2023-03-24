@@ -3,7 +3,7 @@
     Hi, I’m @luckylaxmi03<br>👀 I’m interested in learning new technologies.<br>🌱 I’m currently learning python .<br>💞️ I’m looking to collaborate on Java.<br>📫 How to reach me 122laxmi122@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Connect with me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/laxmi-8b0a63221/) 
 
 # 💻 Tech Stack:
