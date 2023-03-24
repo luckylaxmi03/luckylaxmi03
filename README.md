@@ -1,6 +1,6 @@
 
 - # 💫 About Me:
-    Hi, I’m @luckylaxmi03<br>👀 I’m interested in learning new technologies.<br>🌱 I’m currently learning python and java.<br>💞️ I’m looking to collaborate on Java.<br>📫 How to reach me 122laxmi122@gmail.com
+    Hi, I’m @luckylaxmi03<br>👀 I’m interested in learning new technologies.<br>🌱 I’m currently learning python .<br>💞️ I’m looking to collaborate on Java.<br>📫 How to reach me 122laxmi122@gmail.com
 
 
 ## 🌐 Socials:
